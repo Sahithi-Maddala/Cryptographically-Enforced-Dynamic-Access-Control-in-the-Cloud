@@ -1,4 +1,4 @@
-# 🔐 Shamir's Secret Sharing File Upload System
+# 🔐 Cryptographically-Enforced-Dynamic-Access-Control-in-the-Cloud
 
 A secure file storage and sharing system using Shamir's Secret Sharing (SSS), AES encryption, and RSA key wrapping.
 
