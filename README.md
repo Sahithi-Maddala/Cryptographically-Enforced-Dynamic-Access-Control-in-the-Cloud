@@ -205,22 +205,6 @@ Access at: `http://127.0.0.1:5000`
 - ✅ View project/company details
 - ❌ Cannot access employee management
 
-## 🔐 Security Features
-
-### Multi-Layer Security
-1. **Transport Layer**: HTTPS/TLS encryption
-2. **Authentication Layer**: JWT tokens with expiration
-3. **Authorization Layer**: Role-based access control
-4. **File Encryption**: AES-256 encryption at rest
-5. **Key Security**: RSA-2048 key wrapping
-6. **Secret Security**: Shamir's threshold sharing
-
-### Share Security
-- **Threshold System**: Requires minimum shares for reconstruction
-- **Order Independent**: Shares work regardless of input order
-- **Share Tracking**: Complete audit trail of share distribution
-- **Email Delivery**: Secure share transmission
-
 ## 📁 File Structure
 
 ```
