@@ -304,10 +304,3 @@ Console will show:
 4. **Create users**: Add accounts via registration page
 5. **Start application**: `python appv4.py`
 6. **Access system**: Open `http://127.0.0.1:5000`
-
-For detailed setup instructions or troubleshooting, refer to the sections above.
-
----
-
-**🔐 Secure File Sharing with Shamir's Secret Sharing**  
-*Built with Flask, AES, RSA, and AWS S3*
