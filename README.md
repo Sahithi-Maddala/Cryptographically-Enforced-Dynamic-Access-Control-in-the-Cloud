@@ -2,18 +2,6 @@
 
 A secure file storage and sharing system using Shamir's Secret Sharing (SSS), AES encryption, and RSA key wrapping.
 
-## 📋 Table of Contents
-
-- [🎯 Project Overview](#-project-overview)
-- [🔧 Technology Stack](#-technology-stack)
-- [🚀 Quick Start](#-quick-start)
-- [📝 Step-by-Step Guide](#-step-by-step-guide)
-- [👥 User Roles & Permissions](#-user-roles--permissions)
-- [🔐 Security Features](#-security-features)
-- [📁 File Structure](#-file-structure)
-- [🛠️ Configuration](#️-configuration)
-- [🔧 Troubleshooting](#-troubleshooting)
-
 ## 🎯 Project Overview
 
 This application provides a secure file upload and download system with the following features:
